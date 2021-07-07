@@ -17,7 +17,7 @@
   <li><b>DevEvilGame Studio <a href="https://devevil.xyz/devevil-game-studio">https://devevil.xyz/devevil-game-studio</a></b></li>
   <li><b>Warriors Kingdom <a href="https://devevil.xyz/devevil-game-studio/warriors-kingdom">https://devevil.xyz/devevil-game-studio/warriors-kingdom</a></b></li>
 </ul>
-<h4>What is Warrior Kingdom ? </h4>
+<h4>What is Warriors Kingdom ? </h4>
 <b>Warriors Kingdom is a strategy game where you can build and control your own
 kingdom in "Warriors World" and fight other kingdoms for power, money, food, and ...</b>
 <br>
