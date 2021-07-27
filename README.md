@@ -24,6 +24,7 @@
 <ul>
   <li><b>I'm currently working on Warriors Kingdom 💻</b></li>
   <li><b>Website : <a href="https://devevil.xyz">DevEvil.xyz</a></b></li>
+  <li><b>Discord Server : <a href="https://dsc.gg/devevil">DevEvil Community</a></b></li>
   <li><b>Discord Bot : <a href="https://dsc.gg/devevilbot">DevEvilBot.xyz</a></b></li>
   <li><b>Discord Music Bot : <a href="https://dsc.gg/devevilbot-music">DevEvilBot Music</a></b></li>
   <li><b>Discord Security Bot : <a href="https://dsc.gg/anti-raid">DevEvilBot Anti Raid</a></b></li>
