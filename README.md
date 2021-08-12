@@ -18,7 +18,7 @@
 <br>
 <br>
 <br>
-<b>Hi, Im DevEvil a Front-End and Game Developer from Hell</b>
+<b>Hi, Im DevEvil a Front-End, Game and Discord Bot Developer </b>
 <br>
 <br>
 <ul>
