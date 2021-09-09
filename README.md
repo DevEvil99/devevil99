@@ -11,10 +11,7 @@
 <a href="https://devevilbot.xyz" rel="nofollow">
 		<img align="left" alt="DevEvilBot.xyz - Discord Bot" width="50px" src="https://cdn.discordapp.com/attachments/468141324906921984/864869224107474974/botlogo.jpeg" style="max-width:100%;">
 <a href="https://devevilbot.xyz/music" rel="nofollow">
-		<img align="left" alt="DevEvilBot Music - Discord Bot" width="50px" src="https://cdn.discordapp.com/attachments/468141324906921984/864217739529551882/dcb54fd5a3f9b25a6c41f53343eb0171_1.png" style="max-width:100%;">
-<a href="https://devevilbot.xyz/anti-raid" rel="nofollow">
-		<img align="left" alt="DevEvilBot Anti Raid - Discord Bot" width="50px" src="https://cdn.discordapp.com/attachments/468141324906921984/863730919759413288/PicsArt_07-11-03.09.06.jpg" style="max-width:100%;">
-</a>
+		<img align="left" alt="DevEvilBot Music - Discord Bot" width="50px" src="https://cdn.discordapp.com/attachments/468141324906921984/864217739529551882/dcb54fd5a3f9b25a6c41f53343eb0171_1.png" style="max-width:100%;"></a>
 <br>
 <br>
 <br>
@@ -27,7 +24,6 @@
   <li><b>Discord Server : <a href="https://dsc.gg/devevil">DevEvil Community</a></b></li>
   <li><b>Discord Bot : <a href="https://dsc.gg/devevilbot">DevEvilBot.xyz</a></b></li>
   <li><b>Discord Music Bot : <a href="https://dsc.gg/devevilbot-music">DevEvilBot Music</a></b></li>
-  <li><b>Discord Security Bot : <a href="https://dsc.gg/anti-raid">DevEvilBot Anti Raid</a></b></li>
   <li><b>Contact : <a href="https://devevil.xyz/contact">devevilcontact@gmail.com</a></b></li>
   <li><b>DevEvilGame Studio <a href="https://devevil.xyz/devevil-game-studio">https://devevil.xyz/devevil-game-studio</a></b></li>
   <li><b>Warriors Kingdom <a href="https://devevil.xyz/devevil-game-studio/warriors-kingdom">https://devevil.xyz/devevil-game-studio/warriors-kingdom</a></b></li>
