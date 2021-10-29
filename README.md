@@ -9,9 +9,13 @@
 		<img align="left" alt="Warriors Kingdom" width="50px" src="https://user-images.githubusercontent.com/73029696/124745486-1c8a0480-df35-11eb-8149-99daf7cbdd2c.png" style="max-width:100%;">
 </a>
 <a href="https://devevilbot.xyz" rel="nofollow">
-		<img align="left" alt="DevEvilBot.xyz - Discord Bot" width="50px" src="https://cdn.discordapp.com/attachments/468141324906921984/864869224107474974/botlogo.jpeg" style="max-width:100%;">
+		<img align="left" alt="DevEvilBot.xyz - Discord Bot" width="50px" src="https://cdn.discordapp.com/attachments/468141324906921984/903750777435201586/db-new-log.png" style="max-width:100%;">
 <a href="https://devevilbot.xyz/music" rel="nofollow">
-		<img align="left" alt="DevEvilBot Music - Discord Bot" width="50px" src="https://cdn.discordapp.com/attachments/468141324906921984/864217739529551882/dcb54fd5a3f9b25a6c41f53343eb0171_1.png" style="max-width:100%;"></a>
+		<img align="left" alt="DevEvilBot Music - Discord Bot" width="50px" src="https://cdn.discordapp.com/attachments/468141324906921984/903750773232521226/db-music-new-2.png" style="max-width:100%;"></a>
+<a href="https://devevilbot.xyz/anti-raid" rel="nofollow">
+		<img align="left" alt="DevEvilBot Anti Raid - Discord Bot" width="50px" src="https://cdn.discordapp.com/attachments/468141324906921984/903750771680641025/db-anti-raid.png" style="max-width:100%;"></a>
+<a href="https://devevilbot.xyz/icord" rel="nofollow">
+		<img align="left" alt="iCord - Discord Bot" width="50px" src="https://cdn.discordapp.com/attachments/468141324906921984/903751209087807498/icord.png" style="max-width:100%;"></a>
 <br>
 <br>
 <br>
