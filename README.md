@@ -26,11 +26,16 @@
   <li><b>I'm currently working on Warriors Kingdom 💻</b></li>
   <li><b>Website : <a href="https://devevil.xyz">DevEvil.xyz</a></b></li>
   <li><b>Discord Server : <a href="https://dsc.gg/devevil">DevEvil Community</a></b></li>
-  <li><b>Discord Bot : <a href="https://dsc.gg/devevilbot">DevEvilBot.xyz</a></b></li>
-  <li><b>Discord Music Bot : <a href="https://dsc.gg/devevilbot-music">DevEvilBot Music</a></b></li>
   <li><b>Contact : <a href="https://devevil.xyz/contact">devevilcontact@gmail.com</a></b></li>
   <li><b>DevEvilGame Studio <a href="https://devevil.xyz/devevil-game-studio">https://devevil.xyz/devevil-game-studio</a></b></li>
   <li><b>Warriors Kingdom <a href="https://devevil.xyz/devevil-game-studio/warriors-kingdom">https://devevil.xyz/devevil-game-studio/warriors-kingdom</a></b></li>
+</ul>
+<b>My Discord Bots<b>
+<ul>
+  <li><b>Discord Multipurpose Bot : <a href="https://dsc.gg/devevilbot">DevEvilBot.xyz</a></b></li>
+  <li><b>Discord Music Bot : <a href="https://dsc.gg/dbmusic">DevEvilBot Music</a></b></li>
+<li><b>Discord Anti Raid Bot : <a href="https://dsc.gg/dbar">DevEvilBot Anti Raid</a></b></li>
+<li><b>Discord Multipurpose and Music Bot : <a href="https://dsc.gg/iicord">iCord</a></b></li>
 </ul>
 <h4>What is Warriors Kingdom ? </h4>
 <b>Warriors Kingdom is a strategy game where you can build and control your own
