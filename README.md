@@ -2,10 +2,10 @@
 <a href="https://discord.gg/jsQ9UP7kCA" rel="nofollow">
 		<img align="left" alt="DevEvil's Discord" width="50px" src="https://user-images.githubusercontent.com/73029696/124275635-0c021480-db58-11eb-9fd5-3f543a16a01b.png" style="max-width:100%;">
 </a>
-<a href="https://devevil.xyz/devevil-game-studio" rel="nofollow">
-		<img align="left" alt="DevEvilGame Studio" width="50px" src="https://cdn.discordapp.com/attachments/468141324906921984/861910507065311282/devevil-games.jpg" style="max-width:100%;">
+<a href="https://devevil.xyz/atomic-universe" rel="nofollow">
+		<img align="left" alt="DevEvilGame Studio" width="50px" src="https://cdn.discordapp.com/attachments/468141324906921984/904774924298756167/AtomicUniverse.jpg" style="max-width:100%;">
 </a>
-<a href="https://devevil.xyz/devevil-game-studio/warriors-kingdom" rel="nofollow">
+<a href="https://devevil.xyz/atomic-universe/warriors-kingdom" rel="nofollow">
 		<img align="left" alt="Warriors Kingdom" width="50px" src="https://user-images.githubusercontent.com/73029696/124745486-1c8a0480-df35-11eb-8149-99daf7cbdd2c.png" style="max-width:100%;">
 </a>
 <a href="https://devevilbot.xyz" rel="nofollow">
@@ -28,7 +28,7 @@
   <li><b>Discord Server : <a href="https://dsc.gg/devevil">DevEvil Community ⚡</a></b></li>
 <li><b>BetterDiscord : <a href="https://betterdiscord.app/developer/DevEvil">DevEvil 🌌</a></b></li>
   <li><b>Contact : <a href="https://devevil.xyz/contact">devevilcontact@gmail.com 📞</a></b></li>
-  <li><b><a href="https://devevil.xyz/devevil-game-studio">DevEvilGame Studio 🎮</a></b></li>
+  <li><b><a href="https://devevil.xyz/atomic-universe">AtomicUniverse Game Studio 🎮</a></b></li>
   <li><b><a href="https://devevil.xyz/devevil-game-studio/warriors-kingdom">Warriors Kingdom ⚔️</a></b></li>
 </ul>
 <b>My Discord Bots 🤖<b>
