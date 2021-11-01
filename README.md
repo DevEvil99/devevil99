@@ -19,19 +19,19 @@
 <br>
 <br>
 <br>
-<b>Hi, Im DevEvil a Front-End, Game and Discord Bot Developer </b>
+<b>Hi, Im DevEvil a Front-End, Game and Discord Bot Developer 😎</b>
 <br>
 <br>
 <ul>
   <li><b>I'm currently working on Warriors Kingdom 💻</b></li>
-  <li><b>Website : <a href="https://devevil.xyz">DevEvil.xyz</a></b></li>
-  <li><b>Discord Server : <a href="https://dsc.gg/devevil">DevEvil Community</a></b></li>
-<li><b>BetterDiscord : <a href="https://betterdiscord.app/developer/DevEvil">DevEvil</a></b></li>
-  <li><b>Contact : <a href="https://devevil.xyz/contact">devevilcontact@gmail.com</a></b></li>
-  <li><b>DevEvilGame Studio <a href="https://devevil.xyz/devevil-game-studio">https://devevil.xyz/devevil-game-studio</a></b></li>
-  <li><b>Warriors Kingdom <a href="https://devevil.xyz/devevil-game-studio/warriors-kingdom">https://devevil.xyz/devevil-game-studio/warriors-kingdom</a></b></li>
+  <li><b>Website : <a href="https://devevil.xyz">DevEvil.xyz 🌐</a></b></li>
+  <li><b>Discord Server : <a href="https://dsc.gg/devevil">DevEvil Community ⚡</a></b></li>
+<li><b>BetterDiscord : <a href="https://betterdiscord.app/developer/DevEvil">DevEvil 🌌</a></b></li>
+  <li><b>Contact : <a href="https://devevil.xyz/contact">devevilcontact@gmail.com 📞</a></b></li>
+  <li><b><a href="https://devevil.xyz/devevil-game-studio">DevEvilGame Studio 🎮</a></b></li>
+  <li><b><a href="https://devevil.xyz/devevil-game-studio/warriors-kingdom">Warriors Kingdom ⚔️</a></b></li>
 </ul>
-<b>My Discord Bots<b>
+<b>My Discord Bots 🤖<b>
 <ul>
   <li><b>Discord Multipurpose Bot : <a href="https://dsc.gg/devevilbot">DevEvilBot.xyz</a></b></li>
   <li><b>Discord Music Bot : <a href="https://dsc.gg/dbmusic">DevEvilBot Music</a></b></li>
