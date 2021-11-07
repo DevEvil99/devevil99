@@ -1,4 +1,7 @@
 ## Hi there, I'm DevEvil! 👋
+<a href="https://instagram.com/devevil021" rel="nofollow">
+		<img align="left" alt="DevEvil's Instagram" width="50px" src="https://cdn.discordapp.com/attachments/468141324906921984/906913166196355082/1_Instagram_colored_svg_1-512.webp" style="max-width:100%;">
+</a>
 <a href="https://discord.gg/jsQ9UP7kCA" rel="nofollow">
 		<img align="left" alt="DevEvil's Discord" width="50px" src="https://user-images.githubusercontent.com/73029696/124275635-0c021480-db58-11eb-9fd5-3f543a16a01b.png" style="max-width:100%;">
 </a>
