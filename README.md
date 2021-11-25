@@ -73,7 +73,6 @@ kingdom in "Warriors World" and fight other kingdoms for power, money, food, and
 <code><a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/Adobe-Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe-Premiere%20Pro&labelColor=2f2f5b&logoWidth=15"><img height="20" src="https://img.shields.io/badge/Adobe-Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe-Premiere%20Pro&labelColor=2f2f5b&logoWidth=15" style="max-width:100%;"></a></code>
 <code><a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white"><img height="20" src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" style="max-width:100%;"></a></code>
 <code><a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"><img height="20" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" style="max-width:100%;"></a></code>
-
 <code><a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white"><img height="20" src="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white" style="max-width:100%;"></a></code>
 
 <br>
