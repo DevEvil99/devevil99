@@ -19,7 +19,7 @@
 <br>
 <br>
 <br>
-<b>Hi, Im DevEvil a Front-End, Game and Discord Bot Developer 😎</b>
+<b>Hi, Im DevEvil a Front-End, Game and Discord Bot & Theme Developer 😎</b>
 <br>
 <br>
 <ul>
