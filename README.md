@@ -48,6 +48,14 @@
 <h4>What is Warriors Kingdom ? </h4>
 <b>Warriors Kingdom is a strategy game where you can build and control your own
 kingdom in "Warriors World" and fight other kingdoms for power, money, food, and ...</b>
+<br><br>
+
+### My favorite projects 💻
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DevEvil99&theme=midnight-purple&layout=compact&repo=DevEvilBot-Discord-Bot)
+](https://github.com/DevEvil99/DevEvilBot-Discord-Bot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DevEvil99&theme=midnight-purple&layout=compact&repo=Charoite-Discord-Theme)
+](https://github.com/DevEvil99/Charoite-Discord-Theme)
+
 <br>
 <h5>My Main Languages and Tools:</h5>
 <code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="max-width:100%;"></a></code>
