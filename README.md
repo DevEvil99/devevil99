@@ -32,7 +32,7 @@
 <li><b>LinkedIn : <a href="https://linkedin.com/in/devevil">DevEvil 🌐</a></b></li>
   <li><b>Contact : <a href="https://devevil.xyz/contact">contact@devevil.xyz 📞</a></b></li>
   <li><b><a href="https://devevil.xyz/atomic-universe">AtomicUniverse Game Studio 🎮</a></b></li>
-  <li><b><a href="https://devevil.xyz/devevil-game-studio/warriors-kingdom">Warriors Kingdom ⚔️</a></b></li>
+  <li><b><a href="https://devevil.xyz/atomic-universe/warriors-kingdom">Warriors Kingdom ⚔️</a></b></li>
 </ul>
 <b>My Discord Bots 🤖<b>
 <ul>
