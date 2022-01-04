@@ -12,6 +12,8 @@
 		<img align="left" alt="DevEvilBot.xyz - Discord Bot" width="50px" src="https://cdn.discordapp.com/attachments/468141324906921984/903750777435201586/db-new-log.png" style="max-width:100%;">
 <a href="https://devevilbot.xyz/music" rel="nofollow">
 		<img align="left" alt="DevEvilBot Music - Discord Bot" width="50px" src="https://cdn.discordapp.com/attachments/468141324906921984/903750773232521226/db-music-new-2.png" style="max-width:100%;"></a>
+	<a href="https://devevilbot.xyz/music2" rel="nofollow">
+		<img align="left" alt="DevEvilBot Music 2 - Discord Bot" width="50px" src="https://cdn.discordapp.com/attachments/468141324906921984/926898737761095710/db-2-avatar.png" style="max-width:100%;"></a>
 <a href="https://devevilbot.xyz/anti-raid" rel="nofollow">
 		<img align="left" alt="DevEvilBot Anti Raid - Discord Bot" width="50px" src="https://cdn.discordapp.com/attachments/468141324906921984/903750771680641025/db-anti-raid.png" style="max-width:100%;"></a>
 <a href="https://devevilbot.xyz/icord" rel="nofollow">
