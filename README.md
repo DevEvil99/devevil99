@@ -33,8 +33,8 @@
 <li><b>Twitter : <a href="https://twitter.com/devevil021">DevEvil021 🐦</a></b></li>
 <li><b>LinkedIn : <a href="https://linkedin.com/in/devevil">DevEvil 🌐</a></b></li>
   <li><b>Contact : <a href="https://devevil.xyz/contact">contact@devevil.xyz 📞</a></b></li>
-  <li><b><a href="https://devevil.xyz/atomic-universe">AtomicUniverse Game Studio 🎮</a></b></li>
-  <li><b><a href="https://devevil.xyz/atomic-universe/warriors-kingdom">Warriors Kingdom ⚔️</a></b></li>
+  <li><b><a href="https://moonwolf.devevil.xyz/">Moonwolf Entertainment 🎮</a></b></li>
+  <li><b><a href="https://moonwolf.devevil.xyz/wk.html">Warriors Kingdom ⚔️</a></b></li>
 </ul>
 <b>My Discord Bots 🤖<b>
 <ul>
