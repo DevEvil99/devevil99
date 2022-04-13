@@ -54,7 +54,7 @@ kingdom in "Warriors World" and fight other kingdoms for power, money, food, and
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DevEvil99&theme=midnight-purple&layout=compact&repo=DevEvilBot-Discord-Bot)
 ](https://github.com/DevEvil99/DevEvilBot-Discord-Bot)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DevEvil99&theme=midnight-purple&layout=compact&repo=Charoite-Discord-Theme)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DevEvil99&theme=midnight-purple&layout=compact&repo=Neptune-Discord-Theme)
 ](https://github.com/DevEvil99/Neptune-Discord-Theme) 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DevEvil99&theme=midnight-purple&layout=compact&repo=DarkPlus-Discord-Theme)
