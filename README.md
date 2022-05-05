@@ -1,10 +1,10 @@
 ## Hi there, I'm DevEvil! 👋
 
-<img src="https://cdn.discordapp.com/attachments/468141324906921984/911977540518826014/profile.gif" alt="https://devevil.xyz" style="max-width: 100%;"> <br><br>
+<img src="https://cdn.discordapp.com/attachments/468141324906921984/911977540518826014/profile.gif" alt="https://devevil.com" style="max-width: 100%;"> <br><br>
 <a href="https://instagram.com/devevil021"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" data-canonical-src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="max-width: 100%;"></a>
 <a href="https://twitter.com/DevEvil021"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" data-canonical-src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" style="max-width: 100%;"></a>
 <a href="https://www.linkedin.com/in/devevil/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="max-width: 100%;"></a>
-<a href="https://devevil.xyz/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" data-canonical-src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" style="max-width: 100%;"></a>
+<a href="https://devevil.com/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" data-canonical-src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" style="max-width: 100%;"></a>
 <a href="https://linktr.ee/devevil"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" data-canonical-src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" style="max-width: 100%;"></a>
 <a href="https://discord.gg/jsQ9UP7kCA" rel="nofollow"><img src="https://camo.githubusercontent.com/3f990cfefb64f13d28397fe586c3aa38a81fde585de479205d63c79363ebe07a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446973636f72642d3732383944413f7374796c653d666f722d7468652d6261646765266c6f676f3d646973636f7264266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&amp;logo=discord&amp;logoColor=white" style="max-width: 100%;"></a> <a href="mailto:devevilcontact@gmail.com"><img src="https://camo.githubusercontent.com/927d6b3961fa048ff7303daf291cb5869dfa25018997cf8c1373c2f6a85b1458/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d2532333333333f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;"></a>
 
@@ -26,15 +26,15 @@
 <br>
 <ul>
   <li><b>I'm currently working on Warriors Kingdom 💻</b></li>
-  <li><b>Website : <a href="https://devevil.xyz">DevEvil.xyz 🌐</a></b></li>
+  <li><b>Website : <a href="https://devevil.com">DevEvil.com 🌐</a></b></li>
   <li><b>Discord Server : <a href="https://dsc.gg/devevil">DevEvil Community ⚡</a></b></li>
 <li><b>BetterDiscord : <a href="https://betterdiscord.app/developer/DevEvil">DevEvil 🌌</a></b></li>
 <li><b>Instagram : <a href="https://instagram.com/devevil021">DevEvil021 ⚜</a></b></li>
 <li><b>Twitter : <a href="https://twitter.com/devevil021">DevEvil021 🐦</a></b></li>
 <li><b>LinkedIn : <a href="https://linkedin.com/in/devevil">DevEvil 🌐</a></b></li>
-  <li><b>Contact : <a href="https://devevil.xyz/contact">contact@devevil.xyz 📞</a></b></li>
-  <li><b><a href="https://moonwolf.devevil.xyz/">Moonwolf Entertainment 🎮</a></b></li>
-  <li><b><a href="https://moonwolf.devevil.xyz/wk.html">Warriors Kingdom ⚔️</a></b></li>
+  <li><b>Contact : <a href="https://devevil.com/contact">contact@devevil.com 📞</a></b></li>
+  <li><b><a href="https://moonwolf.devevil.com/">Moonwolf Entertainment 🎮</a></b></li>
+  <li><b><a href="https://moonwolf.devevil.com/wk.html">Warriors Kingdom ⚔️</a></b></li>
 </ul>
 <b>My Discord Bots 🤖<b>
 <ul>
