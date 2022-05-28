@@ -30,7 +30,6 @@
   <li><b>Discord Server : <a href="https://dsc.gg/devevil">DevEvil Community ⚡</a></b></li>
 <li><b>BetterDiscord : <a href="https://betterdiscord.app/developer/DevEvil">DevEvil 🌌</a></b></li>
 <li><b>Instagram : <a href="https://instagram.com/devevil021">DevEvil021 ⚜</a></b></li>
-<li><b>Twitter : <a href="https://twitter.com/devevil021">DevEvil021 🐦</a></b></li>
 <li><b>LinkedIn : <a href="https://linkedin.com/in/devevil">DevEvil 🌐</a></b></li>
   <li><b>Contact : <a href="https://devevil.com/contact">contact@devevil.com 📞</a></b></li>
   <li><b><a href="https://moonwolf.devevil.com/">Moonwolf Entertainment 🎮</a></b></li>
