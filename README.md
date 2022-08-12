@@ -37,7 +37,7 @@
 </ul>
 <b>My Discord Bots 🤖<b>
 <ul>
-  <li><b>Discord Multipurpose Bot : <a href="https://dsc.gg/devevilbot">DevEvilBot.xyz</a></b></li>
+  <li><b>Discord Multipurpose Bot : <a href="https://dsc.gg/devevilbot">DevEvilBot</a></b></li>
   <li><b>Discord Music Bot : <a href="https://dsc.gg/dbmusic">DevEvilBot Music</a></b></li>
 <li><b>Discord Music Bot : <a href="https://dsc.gg/dbmusic2">DevEvilBot Music 2</a></b></li>
 <li><b>Discord Anti Raid Bot : <a href="https://dsc.gg/dbar">DevEvilBot Anti Raid</a></b></li>
