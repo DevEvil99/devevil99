@@ -2,7 +2,6 @@
 
 <img src="https://cdn.discordapp.com/attachments/468141324906921984/1007630536061239306/t.png?size=4096" alt="https://devevil.com" style="max-width: 100%;"> <br><br>
 <a href="https://instagram.com/devevil021"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" data-canonical-src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="max-width: 100%;"></a>
-<a href="https://twitter.com/DevEvil021"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" data-canonical-src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" style="max-width: 100%;"></a>
 <a href="https://www.linkedin.com/in/devevil/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="max-width: 100%;"></a>
 <a href="https://devevil.com/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" data-canonical-src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" style="max-width: 100%;"></a>
 <a href="https://linktr.ee/devevil"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" data-canonical-src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" style="max-width: 100%;"></a>
@@ -84,7 +83,7 @@ kingdom in "Warriors World" and fight other kingdoms for power, money, food, and
 <br>
 <br>
 
-[![DevEvil's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevEvil99&theme=midnight-purple&show_icons=true)](https://devevil.xyz)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevEvil99&theme=midnight-purple&layout=compact)](https://devevil.xyz)
+[![DevEvil's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevEvil99&theme=midnight-purple&show_icons=true)](https://devevil.com)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevEvil99&theme=midnight-purple&layout=compact)](https://devevil.com)
 
 <img src="https://github.com/DevEvil99/DevEvil99/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;">
