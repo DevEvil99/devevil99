@@ -1,6 +1,7 @@
 ## Hi there, I'm DevEvil! 👋
+![devevil_intro](https://user-images.githubusercontent.com/73029696/196200163-e9daefa3-7e43-4eac-bc99-3f56c7979d84.gif)
 
-<img src="https://cdn.discordapp.com/attachments/468141324906921984/1007630536061239306/t.png?size=4096" alt="https://devevil.com" style="max-width: 100%;"> <br><br>
+ <br><br>
 <a href="https://instagram.com/devevil021"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" data-canonical-src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="max-width: 100%;"></a>
 <a href="https://www.linkedin.com/in/devevil/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="max-width: 100%;"></a>
 <a href="https://devevil.com/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" data-canonical-src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" style="max-width: 100%;"></a>
