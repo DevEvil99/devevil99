@@ -17,6 +17,7 @@
   <li><b>✨ I'm currently working on DevEvil Universe</b></li>
   <li><b>🌐 Website : <a href="https://devevil.com">devevil.com</a></b></li>
  <li><b>🔗 Links : <a href="https://dvevl.top">dvevl.top</a></b></li>
+ <li><b>🖊️ Blog : <a href="https://blog.devevil.com">blog.devevil.com</a></b></li>
   <li><b>💬 Discord Server : <a href="https://dsc.gg/devevil">dsc.gg/devevil</a></b></li>
 </ul>
 
