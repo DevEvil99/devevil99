@@ -3,7 +3,7 @@
 
  <br><br>
 <a href="https://instagram.com/devevil.universe"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" data-canonical-src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="max-width: 100%;"></a>
-<a href="https://x.com/dvevl_"><img src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=X&logoColor=white" data-canonical-src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=X&logoColor=white" style="max-width: 100%;"></a>
+<a href="https://x.com/deveviluniverse"><img src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=X&logoColor=white" data-canonical-src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=X&logoColor=white" style="max-width: 100%;"></a>
 <a href="https://www.linkedin.com/in/devevil/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="max-width: 100%;"></a>
 <a href="https://devevil.com/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" data-canonical-src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" style="max-width: 100%;"></a>
 <a href="https://dvevl.top/"><img src="https://img.shields.io/badge/All of my links-000?style=for-the-badge&logo=About.me&logoColor=white" data-canonical-src="https://img.shields.io/badge/All of my links-000?style=for-the-badge&logo=About.me&logoColor=white" style="max-width: 100%;"></a>
